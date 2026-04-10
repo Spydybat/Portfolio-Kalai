@@ -11,7 +11,7 @@ export default function Hero() {
 
       {/* Background Image */}
       <img
-        src="/hero.jpg"
+        src="/hero.png"
         alt="hero"
         className="absolute inset-0 w-full h-full object-cover"
       />
