@@ -57,7 +57,7 @@ export default function About() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-y-4 gap-x-8 mb-10">
               <DetailItem label="LinkedIn" value="kalai23078" />
-              <DetailItem label="Phone" value="+91 123 456 7890" />
+              <DetailItem label="Phone" value="+91 6369837960" />
               <DetailItem label="Email" value="kalai23078@gmail.com" />
               <DetailItem label="Location" value="India" />
               <DetailItem label="Languages" value="English, Tamil" />

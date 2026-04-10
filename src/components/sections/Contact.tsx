@@ -92,7 +92,7 @@ export default function Contact() {
 
             <div className="space-y-6">
               <ContactItem icon={Mail} title="Email Address" content="kalai23078@gmail.com" />
-              <ContactItem icon={Phone} title="Phone Number" content="+91 123 456 7890" />
+              <ContactItem icon={Phone} title="Phone Number" content="+91 6369837960" />
               <ContactItem icon={MapPin} title="Location" content="Chennai, Tamil Nadu, India" />
             </div>
 
